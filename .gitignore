@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+*.zip
+
+# Never add private source material to the public release repository.
+01_原始文书/
+02_脱敏文书/
+03_案件分析卡/
+00_项目管理/

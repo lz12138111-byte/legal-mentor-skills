@@ -1,0 +1,4 @@
+interface:
+  display_name: "中国刑事辩护办案助手"
+  short_description: "按资深律师方法完成刑案诊断、证据审查、策略设计与文书复核"
+  default_prompt: "请使用 $cn-criminal-defense 分析这起刑事案件，并给出可由律师复核的证据、策略或文书方案。"
