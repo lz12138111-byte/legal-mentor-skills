@@ -1,0 +1,4 @@
+interface:
+  display_name: "民事案件法律文书写作skill"
+  short_description: "结合诉讼思路、证据组织与法言法语，起草和复核中国民事案件法律文书"
+  default_prompt: "使用 $cn-civil-litigation-writing，结合案情与证据确定诉讼思路，并起草或修改所需民事法律文书。"
